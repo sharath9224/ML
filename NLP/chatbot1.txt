@@ -1,0 +1,47 @@
+AGP: Accelerated Graphics Port. A type of video interface introduced in 1996 as an 
+improvement to PCI. It has now been largely replaced by PCI-e.
+
+BAWLS: A highly caffeinated drink favored by many geeks. Can be purchased here.
+
+BIOS: Basic Input-Output Services. This information is stored on a chip commonly 
+referred to as the CMOS chip, which really isn't a CMOS chip at all.
+Usually it's a Flash-ROM chip. But they used to be CMOS chips back in the old days, 
+and the name stuck. By whatever name, the BIOS contains the most basic information
+needed by the computer at the hardware level to let it know that it's a computer 
+(rather than, for example, a toaster), how to boot up, and how to find the rest of 
+its parts.
+CD: Compact Disc. A type of optical media, so-called because it uses light to read the 
+data stored on the disk.
+
+CD-R: Compact Disc Recordable. A CD that can be recorded, but from which data cannot 
+be deleted, so the space cannot be re-used. You can record on a CD-R multiple times, 
+but the remaining space will be reduced by whatever's already occupying space on the 
+disk.
+
+CD-ROM: Compact Disc Read-Only Memory. Basically the same as any other CD, except 
+referring specifically to a disk that contains computer data rather than music.
+CD-RW: Compact Disc Re-Writable. A CD that can be recorded multiple times, and from which data can be deleted and the space re-used.
+
+CPU: The Central Processing Unit, Microprocessor, or simply Processor.
+
+DDR: Double Data Rate. A type of memory that sends and receives data twice every clock cycle, and therefore is capable of twice the data transfer rate of standard SDRAM.
+
+DDR2: Double Data Rate 2.
+
+DDR3: Double Data Rate Type 3.
+
+DDR4: Double Data Rate Type 4.
+
+DIMM: Dual In-Line Memory Module. A type of memory chip that uses a 64-bit bus, as 
+compared to SIMM chips, which used a 32-bit bus.
+
+DRAM: Dynamic Random Access Memory." A type of RAM that stores each bit of data on 
+separate capacitors.
+
+DV: Digital Video. A protocol for the storage and transfer of audio-visual information,
+often used to transfer information from a camcorder to a computer, usually over a Firewire interface.
+
+DVD: Digital Versatile Disc. A type of optical media that allows far more storage than 
+a CD.
+EPROM (erasable programmable read-only memory) is memory that does not lose its data when the power supply is cut off. The data can be erased and the chip reprogrammed by shining an intense ultraviolet (UV) light through a window designed into the memory chip.
+
